@@ -1,0 +1,15 @@
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\SoloLearn\ArraysAndStrings\ArraysAndStringsSolo\ArraysAndStringsSolo\bin\Debug\net6.0\ArraysAndStringsSolo.exe
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\SoloLearn\ArraysAndStrings\ArraysAndStringsSolo\ArraysAndStringsSolo\bin\Debug\net6.0\ArraysAndStringsSolo.deps.json
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\SoloLearn\ArraysAndStrings\ArraysAndStringsSolo\ArraysAndStringsSolo\bin\Debug\net6.0\ArraysAndStringsSolo.runtimeconfig.json
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\SoloLearn\ArraysAndStrings\ArraysAndStringsSolo\ArraysAndStringsSolo\bin\Debug\net6.0\ArraysAndStringsSolo.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\SoloLearn\ArraysAndStrings\ArraysAndStringsSolo\ArraysAndStringsSolo\bin\Debug\net6.0\ref\ArraysAndStringsSolo.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\SoloLearn\ArraysAndStrings\ArraysAndStringsSolo\ArraysAndStringsSolo\bin\Debug\net6.0\ArraysAndStringsSolo.pdb
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\SoloLearn\ArraysAndStrings\ArraysAndStringsSolo\ArraysAndStringsSolo\obj\Debug\net6.0\ArraysAndStringsSolo.csproj.AssemblyReference.cache
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\SoloLearn\ArraysAndStrings\ArraysAndStringsSolo\ArraysAndStringsSolo\obj\Debug\net6.0\ArraysAndStringsSolo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\SoloLearn\ArraysAndStrings\ArraysAndStringsSolo\ArraysAndStringsSolo\obj\Debug\net6.0\ArraysAndStringsSolo.AssemblyInfoInputs.cache
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\SoloLearn\ArraysAndStrings\ArraysAndStringsSolo\ArraysAndStringsSolo\obj\Debug\net6.0\ArraysAndStringsSolo.AssemblyInfo.cs
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\SoloLearn\ArraysAndStrings\ArraysAndStringsSolo\ArraysAndStringsSolo\obj\Debug\net6.0\ArraysAndStringsSolo.csproj.CoreCompileInputs.cache
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\SoloLearn\ArraysAndStrings\ArraysAndStringsSolo\ArraysAndStringsSolo\obj\Debug\net6.0\ArraysAndStringsSolo.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\SoloLearn\ArraysAndStrings\ArraysAndStringsSolo\ArraysAndStringsSolo\obj\Debug\net6.0\ref\ArraysAndStringsSolo.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\SoloLearn\ArraysAndStrings\ArraysAndStringsSolo\ArraysAndStringsSolo\obj\Debug\net6.0\ArraysAndStringsSolo.pdb
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\SoloLearn\ArraysAndStrings\ArraysAndStringsSolo\ArraysAndStringsSolo\obj\Debug\net6.0\ArraysAndStringsSolo.genruntimeconfig.cache
